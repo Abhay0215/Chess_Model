@@ -105,11 +105,4 @@ Model:
 
 ---
 
-## **Files Related to the Model**
-
-* `src/train_base.py` → Main training script
-* `src/chess_play.py` → Play against model
-* `artifacts/ckpts/` → Saved models
-* `artifacts/vocab_improved.json` → Move vocabulary
-* `artifacts/dataset_improved.npz` → Encoded training data
 #
